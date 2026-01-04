@@ -36,11 +36,9 @@ soccer-stats-tracker/
 ```
 
 ## Build & Run
-# Configure the project
+This project uses **CMake** and **C++17**.
+
+```bash
 cmake -S . -B build
-
-# Build the executable
 cmake --build build
-
-# Run the application
 ./build/soccer-stats-tracker
