@@ -55,6 +55,6 @@ cmake --build build
 
 ```
 ### 2. Execute the Application
-# Run the binary
 ```bash
+# Run the binary
 ./build/soccer_stats_tracker
